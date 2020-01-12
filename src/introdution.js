@@ -18,6 +18,9 @@ class Introduction extends React.Component{
             height: "100%",
             marginTop: "-75px"
         }
+
+        const numberOfProject = 5;
+
         return(
             <div style={mainStyle} class="ui middle aligned grid ">
 
@@ -52,13 +55,13 @@ class Introduction extends React.Component{
       <div class="center aligned extra content">
 
 
-   <a href="http://github.com/polowis"> <i class="big github icon icon-color"></i> </a>
+   <a href="https://github.com/polowis"> <i class="fab fa-github fa-lg"></i> </a>
 
    <a href="http://linkedin.com/in/changeme"> <i class="big linkedin icon icon-color"></i> </a>
 
-   <a href="http://twitter.com/changeme"> <i class="big twitter icon icon-color"></i> </a>
+   <a href="https://www.facebook.com/polowis.hungtran"> <i class="fab fa-facebook fa-lg"></i> </a>
 
-   <a href="http://instagram.com/changeme"> <i class="big instagram icon icon-color"></i> </a>
+   <a href="https://twitter.com/HungTra51048517"> <i class="fab fa-twitter fa-lg"></i> </a>
 
 
 
@@ -67,7 +70,7 @@ class Introduction extends React.Component{
       </div>
       <div class="center aligned content">
         <a href="/projects">
-          <button class="ui basic button">Projects (3)</button>
+          <button class="ui basic button">Projects {numberOfProject}</button>
         </a>
         <a href="/template/essays/">
           <button class="ui basic button">Essays (3)</button>
