@@ -87,9 +87,9 @@ class Introduction extends React.Component{
         <Link to="/projects">
           <button class="ui basic button">Projects {numberOfProject}</button>
         </Link>
-        <a href="/articles/">
+        <Link to="/articles/">
           <button class="ui basic button">Articles {numberOfArticles}</button>
-        </a>
+        </Link>
          <a href="/resume/">
           <button class="ui basic button">Resume</button>
         </a>

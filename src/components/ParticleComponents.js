@@ -31,7 +31,7 @@ export default () => (
             type: "polygon",
             stroke: {
               width: 2,
-              color: "#000000"
+              color: "#756e64"
             },
             polygon: {
               nb_sides: 6
