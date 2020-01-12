@@ -3,15 +3,17 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import { Route, Link, BrowserRouter as Router } from 'react-router-dom'
+import { Route, BrowserRouter as Router } from 'react-router-dom'
 import Projects from './projects';
-import Introduction from './introdution';
+import Introduction from './introduction';
+import Articles from './articles';
 
 const routing = (
     <Router>
         <div>
             <Route  path="/projects" component={Projects}/>
             <Route exact path="/" component={Introduction}/>
+            <Route path="/articles" component={Articles}/>
             
         </div>
 

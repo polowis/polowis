@@ -1,4 +1,5 @@
 import React from 'react'
+import ParticleComponents from './ParticleComponents'
 
 class Introduction extends React.Component{
     render(){
@@ -19,13 +20,16 @@ class Introduction extends React.Component{
             marginTop: "-75px"
         }
 
-        const numberOfProject = 5;
+        const numberOfProject = 6;
+        const numberOfArticles = 7;
 
         return(
+           
             <div style={mainStyle} class="ui middle aligned grid ">
+                
 
     <div class="column">
-
+    <ParticleComponents />
     <div style={ImgStyle} class="ui fluid centered small circular image">
       <img src="https://avatars0.githubusercontent.com/u/39208974?s=460&v=4"/>
     </div>
@@ -39,7 +43,7 @@ class Introduction extends React.Component{
           <span class="date">Student</span>
         </div>
         <div class="left aligned description">
-          I am studying at Gungahlin College, I expect to graduate in December, 2020
+          I am studying at Gungahlin College, I expect to graduate in December, 2020. I'm making pet projects on Github these days, just to learn some new languages and tools for future development works
         </div>
       </div>
       <div class="center aligned content">
@@ -48,6 +52,16 @@ class Introduction extends React.Component{
           
             Data Science,
             Web development
+
+
+        </div>
+        <div class="description">
+          Programming languages:
+            Python, 
+            Php, 
+            JavaScript,
+            Java
+            
           
 
         </div>
@@ -72,10 +86,10 @@ class Introduction extends React.Component{
         <a href="/projects">
           <button class="ui basic button">Projects {numberOfProject}</button>
         </a>
-        <a href="/template/essays/">
-          <button class="ui basic button">Essays (3)</button>
+        <a href="/articles/">
+          <button class="ui basic button">Articles {numberOfArticles}</button>
         </a>
-        <a href="/template/bio/">
+         <a href="/resume/">
           <button class="ui basic button">Resume</button>
         </a>
       </div>
