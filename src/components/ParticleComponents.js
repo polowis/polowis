@@ -21,7 +21,7 @@ export default () => (
             value: 150,
             density: {
               enable: true,
-              value_area: 1803.4120608655228
+              value_area: 500
             }
           },
           color: {
@@ -34,7 +34,7 @@ export default () => (
               color: "#000000"
             },
             polygon: {
-              nb_sides: 5
+              nb_sides: 6
             },
             image: {
               src: "./logo.svg",
@@ -44,7 +44,7 @@ export default () => (
           },
           opacity: {
             value: 0.4008530152163807,
-            random: false,
+            random: true,
             anim: {
               enable: false,
               speed: 1,
@@ -72,9 +72,9 @@ export default () => (
           move: {
             enable: true,
             speed: 6,
-            direction: "none",
-            random: false,
-            straight: false,
+            direction: "bottom",
+            random: true,
+            straight: true,
             out_mode: "out",
             bounce: false,
             attract: {
@@ -108,11 +108,11 @@ export default () => (
               }
             },
             bubble: {
-              distance: 400,
-              size: 40,
-              duration: 2,
-              opacity: 8,
-              speed: 3
+              distance: 600,
+              size: 12,
+              duration: 1,
+              opacity: 0.8,
+              speed: 2
             },
             repulse: {
               distance: 100,

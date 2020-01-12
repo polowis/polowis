@@ -4,9 +4,9 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import { Route, BrowserRouter } from 'react-router-dom'
-import Projects from './projects';
+import Projects from './components/projects';
 import Introduction from './components/introduction';
-import Articles from './components/introduction';
+import Articles from './components/articles';
 
 const routing = (
     <BrowserRouter basename={window.location.pathname || ''}>
