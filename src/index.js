@@ -3,13 +3,13 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import { Route, BrowserRouter as Router } from 'react-router-dom'
+import { Route, BrowserRouter } from 'react-router-dom'
 import Projects from './projects';
 import Introduction from './introduction';
 import Articles from './articles';
 
 const routing = (
-    <Router>
+    <BrowserRouter basename={window.location.pathname || ''}>
         <div>
             <Route  path="/projects" component={Projects}/>
             <Route exact path="/" component={Introduction}/>
@@ -17,7 +17,7 @@ const routing = (
             
         </div>
 
-    </Router>
+    </BrowserRouter>
 )
 
 ReactDOM.render(routing, document.getElementById('root'));

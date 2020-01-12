@@ -1,5 +1,6 @@
 import React from 'react'
 import ParticleComponents from './ParticleComponents'
+import {Link} from 'react-router-dom';
 
 class Introduction extends React.Component{
     render(){
@@ -83,9 +84,9 @@ class Introduction extends React.Component{
 
       </div>
       <div class="center aligned content">
-        <a href="/projects">
+        <Link to="/projects">
           <button class="ui basic button">Projects {numberOfProject}</button>
-        </a>
+        </Link>
         <a href="/articles/">
           <button class="ui basic button">Articles {numberOfArticles}</button>
         </a>
