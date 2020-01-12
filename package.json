@@ -1,8 +1,8 @@
 {
-  "name": "portfolio",
+  "name": "polowis",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://polowis.github.io/polowis.github",
+  "homepage": "https://polowis.github.io/polowis/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
