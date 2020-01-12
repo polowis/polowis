@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/polowis.github/static/css/main.d1b05096.chunk.css",
-    "main.js": "/polowis.github/static/js/main.17a1e5ba.chunk.js",
-    "main.js.map": "/polowis.github/static/js/main.17a1e5ba.chunk.js.map",
-    "runtime-main.js": "/polowis.github/static/js/runtime-main.5d346b6f.js",
-    "runtime-main.js.map": "/polowis.github/static/js/runtime-main.5d346b6f.js.map",
-    "static/js/2.4ff6a578.chunk.js": "/polowis.github/static/js/2.4ff6a578.chunk.js",
-    "static/js/2.4ff6a578.chunk.js.map": "/polowis.github/static/js/2.4ff6a578.chunk.js.map",
-    "index.html": "/polowis.github/index.html",
-    "precache-manifest.fd9a4c71f6e1329d3cb64cea8152ab91.js": "/polowis.github/precache-manifest.fd9a4c71f6e1329d3cb64cea8152ab91.js",
-    "service-worker.js": "/polowis.github/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/polowis.github/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.4ff6a578.chunk.js.LICENSE": "/polowis.github/static/js/2.4ff6a578.chunk.js.LICENSE",
-    "static/media/logo.svg": "/polowis.github/static/media/logo.5d5d9eef.svg"
+    "main.css": "/polowis/static/css/main.d1b05096.chunk.css",
+    "main.js": "/polowis/static/js/main.b6fc3e04.chunk.js",
+    "main.js.map": "/polowis/static/js/main.b6fc3e04.chunk.js.map",
+    "runtime-main.js": "/polowis/static/js/runtime-main.2889cf78.js",
+    "runtime-main.js.map": "/polowis/static/js/runtime-main.2889cf78.js.map",
+    "static/js/2.4ff6a578.chunk.js": "/polowis/static/js/2.4ff6a578.chunk.js",
+    "static/js/2.4ff6a578.chunk.js.map": "/polowis/static/js/2.4ff6a578.chunk.js.map",
+    "index.html": "/polowis/index.html",
+    "precache-manifest.a63b97f9be38aa40b32ea3a86ca69ed9.js": "/polowis/precache-manifest.a63b97f9be38aa40b32ea3a86ca69ed9.js",
+    "service-worker.js": "/polowis/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/polowis/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.4ff6a578.chunk.js.LICENSE": "/polowis/static/js/2.4ff6a578.chunk.js.LICENSE",
+    "static/media/logo.svg": "/polowis/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5d346b6f.js",
+    "static/js/runtime-main.2889cf78.js",
     "static/js/2.4ff6a578.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.17a1e5ba.chunk.js"
+    "static/js/main.b6fc3e04.chunk.js"
   ]
 }
