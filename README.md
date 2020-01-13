@@ -1,4 +1,6 @@
-This project was built with React
+This project was built with React.
+
+You can read my Vietnamese blog at https://polowis.home.blog/
 
 ## Available Scripts
 
@@ -23,3 +25,5 @@ Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.<br />
+
+
