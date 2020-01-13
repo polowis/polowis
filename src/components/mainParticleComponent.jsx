@@ -23,7 +23,7 @@ export default () => (
                 }
             },
             color: {
-                value: "#ff6e48"
+                value: "#9915eb"
             },
             shape: {
                 type: "circle",
