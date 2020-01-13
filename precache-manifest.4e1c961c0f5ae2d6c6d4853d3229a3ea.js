@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7adfb50bdab3637f02080154d56d8a4",
+    "revision": "3211d4c600cbe03f004f7c0a7fb27523",
     "url": "/polowis/index.html"
   },
   {
-    "revision": "34c587e3edc486801068",
+    "revision": "3ac28470abce3e4167e6",
     "url": "/polowis/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/polowis/static/js/2.c36ce7b2.chunk.js.LICENSE"
   },
   {
-    "revision": "34c587e3edc486801068",
-    "url": "/polowis/static/js/main.49e38749.chunk.js"
+    "revision": "3ac28470abce3e4167e6",
+    "url": "/polowis/static/js/main.bd945968.chunk.js"
   },
   {
     "revision": "85e9f4364832c941a191",
