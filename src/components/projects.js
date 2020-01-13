@@ -5,8 +5,6 @@ import Discordicon from '../images/discord.png'
 import Game2D from '../images/2dgame.gif'
 import MainParticleComponent from './mainParticleComponent'
 
-//import './main.css';
-
 class Projects extends React.Component{
     render(){
         return (
