@@ -78,9 +78,7 @@ class Introduction extends React.Component{
 
    <a href="https://twitter.com/HungTra51048517"> <i class="fab fa-twitter fa-lg"></i> </a>
 
-
-
-  <a href="mailto:molly@hawaii.edu"> <i class="big mail square icon icon-color"></i> </a>
+  <a href="mailto:tranphuochung0912@gmail.com"> <i class="fab fa-envelope"></i> </a>
 
       </div>
       <div class="center aligned content">

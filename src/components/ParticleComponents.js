@@ -3,18 +3,16 @@ import Particles from "react-particles-js";
 
 export default () => (
   <div
+    
+  >
+    <Particles height={window.outerHeight} 
     style={{
-      position: "absolute",
       background: "rgb(33,36,50)",
       position: "fixed",
       zIndex: -1,
       width: "100%",
       height: "120%"
-    
-
     }}
-  >
-    <Particles
       params={{
         particles: {
           number: {
