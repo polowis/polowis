@@ -57,7 +57,7 @@ class Projects extends React.Component{
 			
 				<div class="ui basic label">MariaDB</div>
 			
-				<div class="ui basic label">GitHub</div>
+				<div class="ui basic label">Pusher</div>
 				
 				<div class="ui basic label">Php</div>
 
