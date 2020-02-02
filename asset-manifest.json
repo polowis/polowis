@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/polowis/static/css/main.d1b05096.chunk.css",
-    "main.js": "/polowis/static/js/main.67fd1188.chunk.js",
-    "main.js.map": "/polowis/static/js/main.67fd1188.chunk.js.map",
+    "main.js": "/polowis/static/js/main.5e08ab1a.chunk.js",
+    "main.js.map": "/polowis/static/js/main.5e08ab1a.chunk.js.map",
     "runtime-main.js": "/polowis/static/js/runtime-main.36933708.js",
     "runtime-main.js.map": "/polowis/static/js/runtime-main.36933708.js.map",
-    "static/js/2.c36ce7b2.chunk.js": "/polowis/static/js/2.c36ce7b2.chunk.js",
-    "static/js/2.c36ce7b2.chunk.js.map": "/polowis/static/js/2.c36ce7b2.chunk.js.map",
+    "static/js/2.bbb0f63e.chunk.js": "/polowis/static/js/2.bbb0f63e.chunk.js",
+    "static/js/2.bbb0f63e.chunk.js.map": "/polowis/static/js/2.bbb0f63e.chunk.js.map",
     "index.html": "/polowis/index.html",
-    "precache-manifest.f125233e1b38959e24b8255c15a486ec.js": "/polowis/precache-manifest.f125233e1b38959e24b8255c15a486ec.js",
+    "precache-manifest.46ec9eb72d83725af7756c8877345c18.js": "/polowis/precache-manifest.46ec9eb72d83725af7756c8877345c18.js",
     "service-worker.js": "/polowis/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/polowis/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.c36ce7b2.chunk.js.LICENSE": "/polowis/static/js/2.c36ce7b2.chunk.js.LICENSE",
+    "static/js/2.bbb0f63e.chunk.js.LICENSE": "/polowis/static/js/2.bbb0f63e.chunk.js.LICENSE",
     "static/media/2dgame.gif": "/polowis/static/media/2dgame.40310252.gif",
     "static/media/iruna.jpg": "/polowis/static/media/iruna.56305fc3.jpg",
     "static/media/logo.svg": "/polowis/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.36933708.js",
-    "static/js/2.c36ce7b2.chunk.js",
+    "static/js/2.bbb0f63e.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.67fd1188.chunk.js"
+    "static/js/main.5e08ab1a.chunk.js"
   ]
 }
