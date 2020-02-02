@@ -59,7 +59,7 @@ class Projects extends React.Component{
 			
 				<div class="ui basic label">Pusher</div>
 				
-				<div class="ui basic label">Php</div>
+				<div class="ui basic label">PHP</div>
 
 				<div class="ui basic label">JavaScript</div>
 
@@ -68,7 +68,7 @@ class Projects extends React.Component{
 			</div>
 		</div>
 			
-			<Link class="ui bottom attached button" to="/projects">Read More</Link>
+			<Link class="ui bottom attached button" to="/irunastall">Read More</Link>
 			
 
 		</div>

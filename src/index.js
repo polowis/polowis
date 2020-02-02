@@ -7,6 +7,7 @@ import { Route, BrowserRouter } from 'react-router-dom'
 import Projects from './components/projects';
 import Introduction from './components/introduction';
 import Articles from './components/articles';
+import IrunaStall from './components/projects/irunastall'
 
 const routing = (
     <BrowserRouter basename={window.location.pathname || ''}>
@@ -14,6 +15,7 @@ const routing = (
             <Route  path="/projects" component={Projects}/>
             <Route exact path="/" component={Introduction}/>
             <Route path="/articles" component={Articles}/>
+            <Route path="/irunastall" component={IrunaStall}/>
             
         </div>
 

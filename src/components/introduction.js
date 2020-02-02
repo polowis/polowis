@@ -59,7 +59,7 @@ class Introduction extends React.Component{
         <div class="description">
           Programming languages:
             Python, 
-            Php, 
+            PHP, 
             JavaScript,
             Java
             
