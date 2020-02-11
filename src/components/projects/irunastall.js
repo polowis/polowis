@@ -14,8 +14,12 @@ class Irunastall extends React.Component{
             <p><img class="ui medium right floated rounded image" src={Irunaicon} /></p>
 
             <p>Iruna Global Stall is a web service that I was lucky enough to be involved in a team of 3 people. This project helped me learn how to desgin a good backend code and database.</p>
+            
 
-            <p>Iruna Global Stall is implemented using <a href="https://laravel.com">Laravel</a>, a PHP framework for building web applications. Within 2 months, we created a website that facilitates the proccess of buying and selling in the game Iruna Online.</p>
+            <p>Iruna Global Stall is implemented using <a href="https://laravel.com">Laravel</a>, a PHP framework for building web applications. </p>
+           
+
+            <p>Within 2 months, we created a website that facilitates the proccess of buying and selling in the game Iruna Online.</p>
             <p>We also implmented a chat system, an adminstrator dashboard, and fews cli commands that made the moderation part became much easier</p>
             <p>Iruna Global Stall has approximately around 360 registered users with over 400 items on sale.</p>
             <p>For the frontend part, we decided to use <a href="https://vuejs.org/">VueJS</a> to create a dynamic user interface</p>

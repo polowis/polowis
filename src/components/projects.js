@@ -107,7 +107,7 @@ class Projects extends React.Component{
 			</div>
 		</div>
 			
-			<Link class="ui bottom attached button" to="/projects">Read More</Link>
+			<Link class="ui bottom attached button" to="/discordbot">Read More</Link>
 			
 
 		</div>

@@ -7,7 +7,8 @@ import { Route, BrowserRouter } from 'react-router-dom'
 import Projects from './components/projects';
 import Introduction from './components/introduction';
 import Articles from './components/articles';
-import IrunaStall from './components/projects/irunastall'
+import IrunaStall from './components/projects/irunastall';
+import DiscordBot from './components/projects/discordbot';
 
 const routing = (
     <BrowserRouter basename={window.location.pathname || ''}>
@@ -16,6 +17,7 @@ const routing = (
             <Route exact path="/" component={Introduction}/>
             <Route path="/articles" component={Articles}/>
             <Route path="/irunastall" component={IrunaStall}/>
+            <Route path="/discordbot" component={DiscordBot}/>
             
         </div>
 
