@@ -26,7 +26,7 @@ class DiscordBot extends React.Component{
 
             <p>Through this project, I gained the knowledge of API, and how to interact with them. I also learnt a lot of things about ES6 features and MongoDB database </p>
 
-            <p>Source: <a href="https://github.com/17kibr/Iruna-Stall"><i class="fab fa-github fa-lg"></i> 17kibr/Iruna-Stall</a></p>
+            <p>Source: <a href="https://github.com/polowis/bot9"><i class="fab fa-github fa-lg"></i> polowis/bot9</a></p>
 
             </div>
         </div>
