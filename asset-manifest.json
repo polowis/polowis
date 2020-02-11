@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/polowis/static/css/main.d1b05096.chunk.css",
-    "main.js": "/polowis/static/js/main.40b65545.chunk.js",
-    "main.js.map": "/polowis/static/js/main.40b65545.chunk.js.map",
+    "main.js": "/polowis/static/js/main.eba9ccdf.chunk.js",
+    "main.js.map": "/polowis/static/js/main.eba9ccdf.chunk.js.map",
     "runtime-main.js": "/polowis/static/js/runtime-main.36933708.js",
     "runtime-main.js.map": "/polowis/static/js/runtime-main.36933708.js.map",
     "static/js/2.779a5a28.chunk.js": "/polowis/static/js/2.779a5a28.chunk.js",
     "static/js/2.779a5a28.chunk.js.map": "/polowis/static/js/2.779a5a28.chunk.js.map",
     "index.html": "/polowis/index.html",
-    "precache-manifest.4fee9b76ede04e2ce9e07f786a707570.js": "/polowis/precache-manifest.4fee9b76ede04e2ce9e07f786a707570.js",
+    "precache-manifest.6116643a3781878ea76e426b421cffee.js": "/polowis/precache-manifest.6116643a3781878ea76e426b421cffee.js",
     "service-worker.js": "/polowis/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/polowis/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.779a5a28.chunk.js.LICENSE": "/polowis/static/js/2.779a5a28.chunk.js.LICENSE",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.36933708.js",
     "static/js/2.779a5a28.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.40b65545.chunk.js"
+    "static/js/main.eba9ccdf.chunk.js"
   ]
 }
